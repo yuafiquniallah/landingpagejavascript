@@ -183,8 +183,11 @@ body {
    .nav-item {
     margin: 16px 0;
    }
-   .img-home{
-    margin-bottom: 15px;
+   .img-home {
+    padding-bottom: 30rem;
+    margin-bottom: 30rem;
+    width: 70%;
+
    }
    /**main**/
    .home {
