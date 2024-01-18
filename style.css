@@ -183,6 +183,9 @@ body {
    .nav-item {
     margin: 16px 0;
    }
+   .img-home{
+    margin-bottom: 15px;
+   }
    /**main**/
    .home {
     padding: 100px 7%;
@@ -191,6 +194,7 @@ body {
     overflow: hidden;
     gap: 5rem;
    }
+
 }
 
 
